@@ -1,0 +1,28 @@
+table{
+    font-style: initial;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+td,th{
+    text-align: left;
+    padding: 4px;
+}
+#cal{
+    text-align: center;
+    padding: 100px 32px;
+   
+}
+#calculate{
+    font-size: 20px;
+   
+
+}
+#reset{
+    font-size: 20px;  
+}
+#bill{
+    top: 120px;
+    position: relative;
+    top:-100px;
+    text-align: center;
+}
